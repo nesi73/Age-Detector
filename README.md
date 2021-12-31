@@ -24,3 +24,4 @@ Final degree project, age detector in images and videos, with preprocessing base
 
 ## Preprocessing results
 
+![alt text](https://github.com/nesi73/Age-Detector/blob/main/preprocess/preprocessingResults.png)
